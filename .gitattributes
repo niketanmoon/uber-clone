@@ -1,2 +1,1 @@
-*.C linguist-language=React Native
-*.H linguist-language=React Native
+*.js linguist-language=React Native
